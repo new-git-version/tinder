@@ -1,3 +1,6 @@
+HEAD
 this is master branch line....
+this is from dev branch.... 
+development
 this is a java class which contains string related functions
 
