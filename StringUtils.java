@@ -5,4 +5,6 @@ development
 this is a java class which contains string related functions
 This is updated on 17-07-2023
 This is updated on 17-07-2023
+
 this is master branch
+this is a dev one
